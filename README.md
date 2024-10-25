@@ -1,6 +1,5 @@
-#Hotel Tipton
 
-# 🏨 Plataforma de Gestão de Hotel
+# 🏨 Hotel Tipton
 
 Plataforma em Kotlin para auxiliar **funcionários** do hotel na gestão de operações. 🌟
 
